@@ -1,0 +1,36 @@
+Escape the lair!!!!
+
+type:
+-dungeon crawler
+-puzzle
+-topdown 2d
+
+story:
+the fat greedy wizard, enters a dragon lair in search of gold. He finds the three coins of greed, that tell him of more treasure within the lair. however what they dont tell him is that there are multible dragons in the lair, and not just one as usual. now he has to escape, obvoiusly with his life, but most importantly with as much gold as possible, as the coins of greed effects the carier.
+
+characters/enemeis:
+-Player:
+-Coins of greed:
+	-can talk
+	-3 of them
+	-flying and shining
+	-can move treasure over unpathable terrain 
+-booper dragon:
+	-fat little dragon
+	-listens for the player
+	-shoots slow flying fireballs that explode in a radius
+	-stationary, never moves 
+-snakeneck dragon:
+	-infinate long neck, noone has ever seen its body
+	-body outside screen, only head and neck is displayed
+	-
+mechanics:
+
+
+-Player:
+	-4-way direction movement
+	-coins of greed(X3):
+		-shoot out
+		-fly back on player movement
+		-boop activate that drawns the attention of the dragons, by doing a ping and shine + 
+		if its over tresure it will pick it up and continue to clink and shing and beam, making noise 
