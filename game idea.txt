@@ -10,11 +10,16 @@ the fat greedy wizard, enters a dragon lair in search of gold. He finds the thre
 
 characters/enemeis:
 -Player:
+	-must be able to move in all directions
+	-is the fat greedy wizard
+	-send coins of greed out and use them as an interaction tool
+	-
 -Coins of greed:
 	-can talk
 	-3 of them
 	-flying and shining
-	-can move treasure over unpathable terrain 
+	-can move treasure over unpathable terrain
+	-sharp controll over them
 -booper dragon:
 	-fat little dragon
 	-listens for the player
@@ -24,9 +29,8 @@ characters/enemeis:
 	-infinate long neck, noone has ever seen its body
 	-body outside screen, only head and neck is displayed
 	-
+
 mechanics:
-
-
 -Player:
 	-4-way direction movement
 	-coins of greed(X3):
