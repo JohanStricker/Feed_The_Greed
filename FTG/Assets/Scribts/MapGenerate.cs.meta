@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fbdc518e6f7bfa747a0ed9c97cb04f0d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Solid: {fileID: 100000, guid: 3423e53aa52084545a49a84c3f7c0a68, type: 2}
+  - Hallway: {fileID: 100000, guid: 144e5a2a1a1745a4eaa835879099fb08, type: 2}
+  - Turn: {fileID: 100000, guid: 501c58c82f2b825489ab710b6bbb232e, type: 2}
+  - Hall: {fileID: 100000, guid: 22ac47397ae743746b06eaeddee688ba, type: 2}
+  - Cross: {fileID: 100000, guid: 3170e61dc978d304499ed009c615057e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
